@@ -2,6 +2,7 @@
 
 temp.txt
 .DS_Store
+Desktop.ini
 *.zip
 *.gz
 log/*.log
