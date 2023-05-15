@@ -1,6 +1,7 @@
 # .gitignore file
 
 temp.txt
+temp2.txt
 .DS_Store
 Desktop.ini
 *.zip
